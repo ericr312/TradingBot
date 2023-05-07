@@ -1,0 +1,2 @@
+requests
+alpaca_trade_api
