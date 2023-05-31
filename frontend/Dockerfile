@@ -22,3 +22,4 @@ COPY . .
 RUN npm run build
 
 # Expose port
+EXPOSE 80
